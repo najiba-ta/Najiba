@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=najiba-ta&color=pink)
+![Profile views](https://komarev.com/ghpvc/?username=najiba-ta&color=red)
 
 Skills: JS / HTML / CSS / Ai Agent Development / AI Automation / Prompt Engineering / Workflow Automation / AI Tools Integration
 
